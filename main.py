@@ -44,3 +44,5 @@ import matplotlib.pyplot as plt
 
 plt.plot(balls, maxbin)
 plt.show()
+
+print('askdlfj;asdf')
